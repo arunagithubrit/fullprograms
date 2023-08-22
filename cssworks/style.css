@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+/* h1{
+    color: white;
+    text-decoration: underline;
+} */
+a{
+    color: white;
+    text-decoration: none;
+}
+/* #offer_link{
+    color: red;
+}
+#id_tag{
+    color: brown;
+} */
+.heading{
+    color: blueviolet;
+}
+
+.heading-success{
+    color: green;
+}
+.card{
+    width:30%;
+    height: 300px;
+    background-color: turquoise;
+    color: black;
+}

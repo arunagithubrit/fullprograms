@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+.card{
+    width: 200px;
+    height: 50px;
+    border: ipx solid black;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.card-one{
+    background-color: brown;
+    margin-top: 20px;
+    margin-right: auto;
+}
+
+.card-two{
+     background-color: blueviolet;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.card-three{
+    background-color: chartreuse;
+    margin-left: auto;
+}

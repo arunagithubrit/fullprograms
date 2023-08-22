@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Crimson+Text:ital@1&family=Montserrat:ital,wght@0,100;0,200;1,100&family=Playfair+Display&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+
+body{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Crimson Text', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a:hover{
+    color: red;
+}
